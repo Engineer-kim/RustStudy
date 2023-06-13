@@ -11,7 +11,13 @@ fn main() {
     };
 
     if user.name == "ki mu han jin" {
-        match user.gender {
+        match user.gender {   //if let 으로 대체가능 if let 은 하나의 패턴만 처리할때 사용
+          /*  ex)if let Gender::Male = gender {
+                println!("Male");
+            } else {
+            println!("Not Male");
+            }
+*/
             Gender::Male => println!("Kimu hanjin is Male"),
             _ => println!("The Other Male"),
         }
