@@ -4,7 +4,7 @@ use crate::sliceFunction::fist_world; // 프로젝트내에서 다른 모듈에 
 
 fn main() {
     let mut s = String::from("Hello world!");
-    let value = String::from("babo")
+    let value = String::from("babo");
     let word = fist_world(&s);
     println!("{}", word);
 }
