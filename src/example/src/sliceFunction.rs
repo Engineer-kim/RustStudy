@@ -23,3 +23,17 @@ pub fn fist_world(s: &String) -> usize { // &참조에 접근 값접근 아님
 // 문자열 조각== > 문자열 조각(&str)은 Rust에서 문자열을 참조하는 타입  크기 고정 및 불변  == 주소값
 //(s: &String)  ==> String 타입의 변수를 참조하는 매개변수, 문자열을 전달시에는 String 타입의 변수사용해야함
 //(s: &str)  ==> 문자열 조각을 참조하는 매개변수 입니다 ;;  불변 참조로ㅅ써 안전하고 효율적인 접근가능
+
+
+pub fn enhancedSliceFuntion(s: &String)  -> &str{  // 입력값이 "Hello, world!" 이라면  Hello, 만 반환됨
+    let bytes = s.as_bytes();
+
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b' ' {
+            return &s[0..i];
+        }
+    }
+
+    &s[..]
+
+}

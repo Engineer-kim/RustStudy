@@ -6,9 +6,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/example/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/new_main/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/StructLogic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/example02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/structLogic/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/new_main/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/StructLogic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/example02/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/structLogic/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
