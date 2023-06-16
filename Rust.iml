@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Enum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/EnumTransform/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Unwrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/if_let/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/option_T/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/option_T_Transform/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/someFuntion/src" isTestSource="false" />
@@ -32,6 +33,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Enum/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/EnumTransform/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/Unwrap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/if_let/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/option_T/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/option_T_Transform/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/someFuntion/target" />
