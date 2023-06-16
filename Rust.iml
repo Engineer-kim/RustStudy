@@ -10,6 +10,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/example02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/matchFuntion/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/structLogic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Closure/ClosureMethod/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ClosureFuntion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Display/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Unwrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/option_T/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/someFuntion/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/new_main/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
@@ -17,6 +23,12 @@
       <excludeFolder url="file://$MODULE_DIR$/src/example02/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/matchFuntion/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/structLogic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Closure/ClosureMethod/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ClosureFuntion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Display/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Unwrap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/option_T/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/someFuntion/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

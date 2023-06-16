@@ -1,6 +1,6 @@
 mod matchesFunction;
-
 use::std::io;
+use crate::matchesFunction::matchesFuntion;
 
 fn main() {
     println!("Hello, world!");

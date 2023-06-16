@@ -1,4 +1,4 @@
-fn matchesFuntion(number: u32){
+pub fn matchesFuntion(number: u32){
 
     match number {
         1 => println!("One"),
