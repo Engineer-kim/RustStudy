@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/generic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/traitFuntion/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/GenericPointStruct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/iterator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/lifeTimeFuntion/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/new_main/target" />
@@ -48,6 +49,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/generic/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/traitFuntion/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/GenericPointStruct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/iterator/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/lifeTimeFuntion/target" />
     </content>
     <orderEntry type="inheritedJdk" />
