@@ -27,6 +27,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/GenericPointStruct/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/iterator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/lifeTimeFuntion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BOX_RUST/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/lifeTimeCycle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/smart_Pointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/structAndPartialOrd/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/example/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/new_main/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
@@ -51,6 +55,10 @@
       <excludeFolder url="file://$MODULE_DIR$/src/GenericPointStruct/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/iterator/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/lifeTimeFuntion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/BOX_RUST/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lifeTimeCycle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/smart_Pointer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/structAndPartialOrd/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
